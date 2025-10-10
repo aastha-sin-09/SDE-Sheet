@@ -31,6 +31,16 @@ Each day, I’ll be solving and documenting multiple LeetCode problems topic-wis
 | 25  | Reverse Nodes in k-Group | [🔗 View Problem](https://leetcode.com/problems/reverse-nodes-in-k-group/) |
 | — | Flattening of a Linked List | [🔗 View Problem (GFG)](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) |
 
+---
+
+## 📅 **Day 3 – Linked List - III**
+
+### Problems Solved:
+| # | Problem | LeetCode Link |
+|---|----------|---------------|
+| 61 | Rotate List | [🔗 View Problem](https://leetcode.com/problems/rotate-list/) |
+| 83 | Remove Duplicates From Sorted List | [🔗 View Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
+
 
 
 
