@@ -60,6 +60,17 @@ Each day, I’ll be solving and documenting multiple LeetCode problems topic-wis
 | 1903 | Largest Odd Number in String | [🔗 View Problem](https://leetcode.com/problems/largest-odd-number-in-string/) |
 
 
+---
+
+## 📅 **Day 5 – Strings - II**
+
+### Problems Solved:
+| # | Problem | Link |
+|---|----------|------|
+| 451 | Sort Characters By Frequency | [🔗 View Problem](https://leetcode.com/problems/sort-characters-by-frequency/) |
+| 1614 | Maximum Nesting Depth of the Parentheses | [🔗 View Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |
+| 13 | Roman to Integer | [🔗 View Problem](https://leetcode.com/problems/roman-to-integer/) |
+| 1781 | Sum of Beauty of All Substrings | [🔗 View Problem](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) |
 
 
 
