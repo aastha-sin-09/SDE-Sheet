@@ -41,6 +41,26 @@ Each day, I’ll be solving and documenting multiple LeetCode problems topic-wis
 | 61 | Rotate List | [🔗 View Problem](https://leetcode.com/problems/rotate-list/) |
 | 83 | Remove Duplicates From Sorted List | [🔗 View Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
 
+---
+
+## 📅 **Day 4 – Strings - I**
+
+### Problems Solved:
+| # | Problem | Link |
+|---|----------|------|
+| 151 | Reverse Words in a String | [🔗 View Problem](https://leetcode.com/problems/reverse-words-in-a-string/) |
+| — | Reverse Words (GFG) | [🔗 View Problem (GFG)](https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1) |
+| 71 | Simplify Path | [🔗 View Problem](https://leetcode.com/problems/simplify-path/) |
+| 5 | Longest Palindromic Substring | [🔗 View Problem](https://leetcode.com/problems/longest-palindromic-substring/) |
+| 14 | Longest Common Prefix | [🔗 View Problem](https://leetcode.com/problems/longest-common-prefix/) |
+| 205 | Isomorphic Strings | [🔗 View Problem](https://leetcode.com/problems/isomorphic-strings/) |
+| 242 | Valid Anagram | [🔗 View Problem](https://leetcode.com/problems/valid-anagram/) |
+| 796 | Rotate String | [🔗 View Problem](https://leetcode.com/problems/rotate-string/) |
+| 1021 | Remove Outermost Parentheses | [🔗 View Problem](https://leetcode.com/problems/remove-outermost-parentheses/) |
+| 1903 | Largest Odd Number in String | [🔗 View Problem](https://leetcode.com/problems/largest-odd-number-in-string/) |
+
+
+
 
 
 
