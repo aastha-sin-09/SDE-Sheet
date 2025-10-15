@@ -83,6 +83,20 @@ Each day, I’ll be solving and documenting multiple LeetCode problems topic-wis
 | 20 | Valid Parentheses | [🔗 View Problem](https://leetcode.com/problems/valid-parentheses/) |
 | 387 | First Unique Character in a String | [🔗 View Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 
+---
+
+## 📅 **Day 7 – Arrays - I**
+
+### Problems Solved:
+| # | Problem | Link |
+|---|----------|------|
+| 136 | Single Number | [🔗 View Problem](https://leetcode.com/problems/single-number/) |
+| 485 | Max Consecutive Ones | [🔗 View Problem](https://leetcode.com/problems/max-consecutive-ones/) |
+| 268 | Missing Number | [🔗 View Problem](https://leetcode.com/problems/missing-number/) |
+| 283 | Move Zeroes | [🔗 View Problem](https://leetcode.com/problems/move-zeroes/) |
+| 189 | Rotate Array | [🔗 View Problem](https://leetcode.com/problems/rotate-array/) |
+| 26 | Remove Duplicates from Sorted Array | [🔗 View Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 1752 | Check if Array Is Sorted and Rotated | [🔗 View Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
 
 
 
