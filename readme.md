@@ -72,6 +72,18 @@ Each day, I’ll be solving and documenting multiple LeetCode problems topic-wis
 | 13 | Roman to Integer | [🔗 View Problem](https://leetcode.com/problems/roman-to-integer/) |
 | 1781 | Sum of Beauty of All Substrings | [🔗 View Problem](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) |
 
+---
+
+## 📅 **Day 6 – Strings - III**
+
+### Problems Solved:
+| # | Problem | Link |
+|---|----------|------|
+| 3 | Longest Substring Without Repeating Characters | [🔗 View Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 20 | Valid Parentheses | [🔗 View Problem](https://leetcode.com/problems/valid-parentheses/) |
+| 387 | First Unique Character in a String | [🔗 View Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) |
+
+
 
 
 
