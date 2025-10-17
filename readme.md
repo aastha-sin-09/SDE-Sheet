@@ -116,6 +116,21 @@ Each day, I’ll be solving and documenting multiple LeetCode problems topic-wis
 | 75 | Sort Colors | [🔗 View Problem](https://leetcode.com/problems/sort-colors/) |
 | 1 | Two Sum | [🔗 View Problem](https://leetcode.com/problems/two-sum/) |
 
+---
+
+## 📅 **Day 9 – Binary Search on 1D Arrays**
+
+### Problems Solved:
+| # | Problem | LeetCode Link |
+|---|----------|---------------|
+| 33 | Search in Rotated Sorted Array | [🔗 LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+| 34 | Find First and Last Position of Element in Sorted Array | [🔗 LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+| 35 | Search Insert Position | [🔗 LeetCode](https://leetcode.com/problems/search-insert-position/) |
+| 704 | Binary Search | [🔗 LeetCode](https://leetcode.com/problems/binary-search/) |
+
+---
+
+
 
 
 
