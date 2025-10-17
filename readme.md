@@ -98,6 +98,23 @@ Each day, I’ll be solving and documenting multiple LeetCode problems topic-wis
 | 26 | Remove Duplicates from Sorted Array | [🔗 View Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 1752 | Check if Array Is Sorted and Rotated | [🔗 View Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
 
+---
+
+## 📅 **Day 8 – Arrays - II**
+
+### Problems Solved:
+| # | Problem | Link |
+|---|----------|------|
+| 62 | Unique Paths | [🔗 View Problem](https://leetcode.com/problems/unique-paths/) |
+| 54 | Spiral Matrix | [🔗 View Problem](https://leetcode.com/problems/spiral-matrix/) |
+| 48 | Rotate Image | [🔗 View Problem](https://leetcode.com/problems/rotate-image/) |
+| 73 | Set Matrix Zeroes | [🔗 View Problem](https://leetcode.com/problems/set-matrix-zeroes/) |
+| 2149 | Rearrange Array Elements by Sign | [🔗 View Problem](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |
+| 560 | Subarray Sum Equals K | [🔗 View Problem](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| 53 | Maximum Subarray | [🔗 View Problem](https://leetcode.com/problems/maximum-subarray/) |
+| 169 | Majority Element | [🔗 View Problem](https://leetcode.com/problems/majority-element/) |
+| 75 | Sort Colors | [🔗 View Problem](https://leetcode.com/problems/sort-colors/) |
+| 1 | Two Sum | [🔗 View Problem](https://leetcode.com/problems/two-sum/) |
 
 
 
