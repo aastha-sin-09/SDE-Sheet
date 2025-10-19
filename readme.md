@@ -131,6 +131,28 @@ Each day, I’ll be solving and documenting multiple LeetCode problems topic-wis
 ---
 
 
+## 📅 **Day 9 – Binary Search II + Bitwise Manipulation**
+
+### 🔹 Binary Search on 2D Arrays
+| # | Problem | Platform | Link |
+|---|----------|-----------|------|
+| 74 | Search a 2D Matrix | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) |
+| 240 | Search a 2D Matrix II | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/) |
+
+### 🔹 Bitwise Manipulation
+| # | Problem | Platform | Link |
+|---|----------|-----------|------|
+| 1 | Power of Two | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/power-of-two/) |
+| 2 | Count Number of 1s | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/set-bits0143/1) |
+| 3 | Check Even or Odd | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) |
+| 4 | Swap Two Numbers | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) |
+| 5 | Set the Rightmost Unset Bit | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) |
+| 6 | Check K-th Bit | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) |
+
+---
+
+
+
 
 
 
