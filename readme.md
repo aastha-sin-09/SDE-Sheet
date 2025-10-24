@@ -80,7 +80,6 @@ Each day, I’ll be solving and documenting multiple LeetCode problems topic-wis
 | # | Problem | Link |
 |---|----------|------|
 | 3 | Longest Substring Without Repeating Characters | [🔗 View Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
-| 20 | Valid Parentheses | [🔗 View Problem](https://leetcode.com/problems/valid-parentheses/) |
 | 387 | First Unique Character in a String | [🔗 View Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 
 ---
@@ -131,33 +130,41 @@ Each day, I’ll be solving and documenting multiple LeetCode problems topic-wis
 ---
 
 
-## 📅 **Day 9 – Binary Search II + Bitwise Manipulation**
+---
 
-### 🔹 Binary Search on 2D Arrays
+## 📅 **Day 9 – Binary Search II & Bitwise Manipulation**
+
+### 🧩 Binary Search on 2D Arrays
 | # | Problem | Platform | Link |
 |---|----------|-----------|------|
 | 74 | Search a 2D Matrix | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 240 | Search a 2D Matrix II | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/) |
 
-### 🔹 Bitwise Manipulation
+### ⚙️ Bitwise Manipulation
 | # | Problem | Platform | Link |
 |---|----------|-----------|------|
-| 1 | Power of Two | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/power-of-two/) |
-| 2 | Count Number of 1s | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/set-bits0143/1) |
-| 3 | Check Even or Odd | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) |
-| 4 | Swap Two Numbers | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) |
-| 5 | Set the Rightmost Unset Bit | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) |
-| 6 | Check K-th Bit | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) |
+|   | Swap Two Numbers | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) |
+| 231 | Power of Two | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/power-of-two/) |
+|   | Set the Rightmost Unset Bit | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) |
+| 191 | Counting Number of 1s (Number of 1 Bits) | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/number-of-1-bits/) |
+|   | Checking Even/Odd using Bit Manipulation | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) |
+|   | Check K-th Bit | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) |
 
 ---
 
+---
 
+## 📅 **Day 10 – Stack and Queue - I**
 
+| # | Problem | Platform | Link |
+|---|----------|-----------|------|
+|   | Implement Stack using Arrays | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1) |
+|   | Implement Stack using LinkedList | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) |
+| 225 | Implement Stack using Queue | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/implement-stack-using-queues/) |
+|   | Implement Queue using Arrays | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1) |
+|   | Implement Queue using LinkedList | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) |
+| 232 | Implement Queue using Stack | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/implement-queue-using-stacks/) |
+| 20 | Valid Parentheses | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/valid-parentheses/) |
+| 155 | Min Stack | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/min-stack/) |
 
-
-
-
-
-
-
-
+---
