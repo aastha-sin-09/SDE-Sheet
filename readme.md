@@ -168,3 +168,16 @@ Each day, I’ll be solving and documenting multiple LeetCode problems topic-wis
 | 155 | Min Stack | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/min-stack/) |
 
 ---
+
+---
+
+## 📅 **Day 11 – Stack II**
+
+| # | Problem | Platform | Link |
+|---|----------|-----------|------|
+|   | Infix to Postfix | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1) |
+| 496 | Next Greater Element I | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/next-greater-element-i/) |
+|   | Next Smaller Element | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/next-smaller-element-1587115620/1) |
+
+---
+
