@@ -180,4 +180,15 @@ Each day, I’ll be solving and documenting multiple LeetCode problems topic-wis
 |   | Next Smaller Element | GFG | [🔗 GFG](https://www.geeksforgeeks.org/problems/next-smaller-element-1587115620/1) |
 
 ---
+---
 
+## 📅 **Day 12 – Sliding Window - I**
+
+| # | Problem | Platform | Link |
+|---|----------|-----------|------|
+| 3 | Longest Substring Without Repeating Characters | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 1004 | Max Consecutive Ones III | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) |
+| 904 | Fruit Into Baskets | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/fruit-into-baskets/) |
+| 1423 | Maximum Points You Can Obtain from Cards | LeetCode | [🔗 LeetCode](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) |
+
+---
